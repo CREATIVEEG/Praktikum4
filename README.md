@@ -5,7 +5,7 @@ Sebelum memulai pembuatan praktikum, Saya membuat sebuah program latihan terlebi
 • Membuat sebuah list dengan elemen sebanyak 5 buah dengan isi nilai bebas.<br/>
 • Disini saya akan mengakses list, mengubah, dan menambah elemen pada list.<br/>
 • Adapun program Pythonnya adalah sebagai berikut :<br/>
-[img.png](D:\Users\Lab_Pemrograman\Praktikum4\Screenshots\ss1)<br/>
-[img.png](D:\Users\Lab_Pemrograman\Praktikum4\Screenshots\ss2)<br/>
+![img.png](D:\Users\Lab_Pemrograman\Praktikum4\Screenshots\ss1)<br/>
+![img.png](D:\Users\Lab_Pemrograman\Praktikum4\Screenshots\ss2)<br/>
 • Dengan program seperti ini, maka akan menghasilkan output seperti ini :<br/>
-[img.png](D:\Users\Lab_Pemrograman\Praktikum4\Screenshots\ss3)<br/>
+![img.png](D:\Users\Lab_Pemrograman\Praktikum4\Screenshots\ss3)<br/>
