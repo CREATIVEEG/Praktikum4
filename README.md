@@ -4,7 +4,8 @@
 |  1 | Latihan    | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#latihan)   |
 |  2 | Praktikum  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#praktikum) |
 |  3 | Flowchart  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#flowchart) |
-|  4 | Penutup    | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#penutup)   |<br/>
+|  4 | Penutup    | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum4#penutup)   |
+
 Pada tugas praktikum ini, Saya akan membuat program python dengan fungsi list, lengkap beserta flowchartnya.<br/>
 ## Latihan
 Sebelum memulai pembuatan praktikum, Saya membuat sebuah program latihan terlebih dahulu, dan menjelaskan fungsi dari list. Berikut inilah program latihan list yang saya buat :<br/><br/>
